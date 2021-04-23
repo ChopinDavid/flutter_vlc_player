@@ -88,7 +88,7 @@ public class FlutterVlcPlayerPlugin implements FlutterPlugin, ActivityAware {
 
     @Override
     public void onDetachedFromActivity() {
-        stopListening();
+//        stopListening();
     }
 
     // extra methods
